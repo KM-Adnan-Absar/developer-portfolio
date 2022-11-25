@@ -15,12 +15,27 @@ h3{
     
     color:rgb(143, 134, 134);
    }
-   button{
+  
+   
+   section{
+    display: flex;
+   }
+   .half-width img{
+    width: 70%;
+    height: 80%;
+   }
+   .half-width{
+    padding-left: 30px;
+    width: 50%;
+   }
+   .link-button{
+    text-decoration: none;
+    background-color: orangered;
+    background-image: -moz-linear-gradient(orange tomato);
+    padding: 10px 40px;
+    font-weight: 700;
     font-family: 'Poppins', sans-serif; 
-    font-weight: bold;
-    background-color:tomato;
     color: white;
-    border: 0;
     border-radius: 3px;
-    text-align: center;
+    font-size: 15px;
    }

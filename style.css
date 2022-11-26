@@ -48,3 +48,28 @@ h3{
     background-image: url(images/top-banner.png);
     background-repeat:no-repeat;
    }
+   .Download-something{
+    text-decoration: none;
+    background-color: orangered;
+    background-image: -moz-linear-gradient(orange tomato);
+    padding: 10px 40px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif; 
+    color: white;
+    border-radius: 3px;
+    font-size: 15px;
+    paddding-: 10px;
+   } 
+   .Second-part{
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+   }
+   .second-divs img{
+    width: 50%;
+   }
+   .second-divs{
+    padding-left: 50px;
+    width: 50%;
+   }
